@@ -1,0 +1,1 @@
+This is a website for my Website Fundamentals class taken July 2015.
